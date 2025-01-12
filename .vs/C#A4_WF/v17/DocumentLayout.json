@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\formrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\formrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#a4_wf\\c#a4_wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|C:\\Users\\gusta\\source\\repos\\C#A4_WF\\c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|C:\\Users\\gusta\\source\\repos\\C#A4_WF\\c#a4_wf\\formrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\formrecipedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\FoodCategory.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FoodCategory.cs",
+              "RelativeToolTip": "C#A4_WF\\FoodCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:37:04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRecipeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FormRecipeDetails.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\FormRecipeDetails.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FormRecipeDetails.cs",
+              "RelativeToolTip": "C#A4_WF\\FormRecipeDetails.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwP8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:18:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\RecipeManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\RecipeManager.cs",
+              "RelativeToolTip": "C#A4_WF\\RecipeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:43:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\MainForm.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\MainForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\MainForm.cs",
+              "RelativeToolTip": "C#A4_WF\\MainForm.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwJwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:22:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\Recipe.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\Recipe.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\Recipe.cs",
+              "RelativeToolTip": "C#A4_WF\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:00:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\Program.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\Program.cs",
+              "RelativeToolTip": "C#A4_WF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:17:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\MainForm.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\MainForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\MainForm.cs [Design]",
+              "RelativeToolTip": "C#A4_WF\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:22:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRecipeDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FormRecipeDetails.cs",
+              "RelativeDocumentMoniker": "C#A4_WF\\FormRecipeDetails.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A4_WF\\C#A4_WF\\FormRecipeDetails.cs [Design]",
+              "RelativeToolTip": "C#A4_WF\\FormRecipeDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:07:11.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
