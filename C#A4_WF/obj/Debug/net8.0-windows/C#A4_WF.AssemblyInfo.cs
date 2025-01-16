@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#A4_WF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01f8d6466c3dc1e2376c5be1d6209366adab2a70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb97b0185966be6171e277d8b5cfebed4ae3d2c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#A4_WF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#A4_WF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

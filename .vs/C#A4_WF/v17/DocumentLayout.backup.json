@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#1\\c#1_a4_wf\\c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#1\\c#1_a4_wf\\c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#1\\c#1_a4_wf\\c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#1\\c#1_a4_wf\\c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|solutionrelative:c#a4_wf\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A7E0876-F6E4-433C-885A-6DA0E947E4B1}|C#A4_WF\\C#A4_WF.csproj|c:\\users\\gusta\\source\\repos\\c#\\mau_c#1\\c#1_a4_wf\\c#a4_wf\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,55 +30,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RecipeManager.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\RecipeManager.cs",
               "RelativeDocumentMoniker": "C#A4_WF\\RecipeManager.cs",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\RecipeManager.cs",
               "RelativeToolTip": "C#A4_WF\\RecipeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:34:37.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\Recipe.cs",
               "RelativeDocumentMoniker": "C#A4_WF\\Recipe.cs",
               "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\Recipe.cs",
               "RelativeToolTip": "C#A4_WF\\Recipe.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA3wGEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwGEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:31:47.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs",
               "RelativeDocumentMoniker": "C#A4_WF\\MainForm.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs [Design]",
-              "RelativeToolTip": "C#A4_WF\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs [Design]*",
+              "RelativeToolTip": "C#A4_WF\\MainForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:21:44.954Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs",
               "RelativeDocumentMoniker": "C#A4_WF\\MainForm.cs",
-              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs",
-              "RelativeToolTip": "C#A4_WF\\MainForm.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwIAAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#\\MAU_C#1\\C#1_A4_WF\\C#A4_WF\\MainForm.cs*",
+              "RelativeToolTip": "C#A4_WF\\MainForm.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:21:41.324Z",
               "EditorCaption": ""
@@ -93,8 +93,7 @@
               "RelativeToolTip": "C#A4_WF\\FoodCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:18:36.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:18:36.983Z"
             }
           ]
         }

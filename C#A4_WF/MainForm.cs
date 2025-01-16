@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices.Marshalling;
+
 namespace C_A4_WF
 {
     /// <summary>
@@ -31,6 +33,7 @@ namespace C_A4_WF
             this.recipeManager = new RecipeManager(maxNumOfRecipes);
 
             recipeListBox.SelectedIndexChanged += RecipeListBox_SelectedIndexChanged; //Subscribe to method (executes when recipeListBox index is changed)
+            recipeListBox.SelectedIndexChanged += TryDisplayImg;
         }
 
         /// <summary>
@@ -118,6 +121,8 @@ namespace C_A4_WF
             if (imgFileDialog.ShowDialog() == DialogResult.OK)
             {
                 recipeManager.AddImg(imgFileDialog.FileName, recipeListBox.SelectedIndex);
+
+                TryDisplayImg(sender, e);
             }
             else
             {
@@ -125,6 +130,29 @@ namespace C_A4_WF
                     "Img Load Error",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
+            }
+        }
+
+        private void TryDisplayImg(Object sender, EventArgs e)
+        {
+            if (recipeListBox.SelectedIndex != -1)
+            {
+                string imgPath = recipeManager.GetRecipe(recipeListBox.SelectedIndex).ImgFileName;
+
+                if (imgPath != string.Empty)
+                {
+                    try
+                    {
+                        recipeImgBox.SizeMode = PictureBoxSizeMode.StretchImage;
+                        recipeImgBox.Image = new System.Drawing.Bitmap(imgPath);
+                    } catch (Exception ex)
+                    {
+                        MessageBox.Show($"Could not load image. {ex.Message}",
+                            ex.Message,
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Error);
+                    }
+                }
             }
         }
 
@@ -252,11 +280,11 @@ namespace C_A4_WF
         /// <summary>
         /// Toggles addbuttons (on = true, off = false)
         /// </summary>
-        /// <param name="toogle"></param>
-        private void ToggleAddButtons(bool toogle)
+        /// <param name="toggle"></param>
+        private void ToggleAddButtons(bool toggle)
         {
-            addIngrInstrButton.Enabled = toogle;
-            addRecipeButton.Enabled = toogle;
+            addIngrInstrButton.Enabled = toggle;
+            addRecipeButton.Enabled = toggle;
         }
 
         /// <summary>
