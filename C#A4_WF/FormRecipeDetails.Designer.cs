@@ -90,6 +90,7 @@
             // 
             // ingredientsListBox
             // 
+            ingredientsListBox.Font = new Font("Courier New", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             ingredientsListBox.FormattingEnabled = true;
             ingredientsListBox.ItemHeight = 15;
             ingredientsListBox.Location = new Point(33, 114);

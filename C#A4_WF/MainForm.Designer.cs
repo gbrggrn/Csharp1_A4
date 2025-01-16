@@ -39,11 +39,11 @@
             changeButton = new Button();
             deleteRecipeButton = new Button();
             clearInputButton = new Button();
-            recipePictureBox = new PictureBox();
+            recipeImgBox = new PictureBox();
             addImageButton = new Button();
             shortRecipeRichTextBox = new RichTextBox();
             addRecipeBox.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)recipePictureBox).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)recipeImgBox).BeginInit();
             SuspendLayout();
             // 
             // addRecipeBox
@@ -117,6 +117,7 @@
             // recipeListBox
             // 
             recipeListBox.BackColor = SystemColors.ControlLight;
+            recipeListBox.Font = new Font("Courier New", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             recipeListBox.FormattingEnabled = true;
             recipeListBox.ItemHeight = 15;
             recipeListBox.Location = new Point(39, 305);
@@ -154,13 +155,13 @@
             clearInputButton.UseVisualStyleBackColor = true;
             clearInputButton.Click += clearInputButton_Click;
             // 
-            // recipePictureBox
+            // recipeImgBox
             // 
-            recipePictureBox.Location = new Point(391, 37);
-            recipePictureBox.Name = "recipePictureBox";
-            recipePictureBox.Size = new Size(247, 197);
-            recipePictureBox.TabIndex = 10;
-            recipePictureBox.TabStop = false;
+            recipeImgBox.Location = new Point(391, 37);
+            recipeImgBox.Name = "recipeImgBox";
+            recipeImgBox.Size = new Size(247, 197);
+            recipeImgBox.TabIndex = 10;
+            recipeImgBox.TabStop = false;
             // 
             // addImageButton
             // 
@@ -170,11 +171,13 @@
             addImageButton.TabIndex = 11;
             addImageButton.Text = "Add Image";
             addImageButton.UseVisualStyleBackColor = true;
+            addImageButton.Click += AddImageButton_Click;
             // 
             // shortRecipeRichTextBox
             // 
             shortRecipeRichTextBox.BackColor = SystemColors.ControlLight;
             shortRecipeRichTextBox.Enabled = false;
+            shortRecipeRichTextBox.Font = new Font("Courier New", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             shortRecipeRichTextBox.ForeColor = Color.Black;
             shortRecipeRichTextBox.Location = new Point(391, 320);
             shortRecipeRichTextBox.Name = "shortRecipeRichTextBox";
@@ -190,7 +193,7 @@
             ClientSize = new Size(684, 661);
             Controls.Add(shortRecipeRichTextBox);
             Controls.Add(addImageButton);
-            Controls.Add(recipePictureBox);
+            Controls.Add(recipeImgBox);
             Controls.Add(clearInputButton);
             Controls.Add(deleteRecipeButton);
             Controls.Add(changeButton);
@@ -201,7 +204,7 @@
             Text = "Cookbook by Gustaf Berggren";
             addRecipeBox.ResumeLayout(false);
             addRecipeBox.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)recipePictureBox).EndInit();
+            ((System.ComponentModel.ISupportInitialize)recipeImgBox).EndInit();
             ResumeLayout(false);
         }
 
@@ -218,7 +221,7 @@
         private Button changeButton;
         private Button deleteRecipeButton;
         private Button clearInputButton;
-        private PictureBox recipePictureBox;
+        private PictureBox recipeImgBox;
         private Button addImageButton;
         private RichTextBox shortRecipeRichTextBox;
     }

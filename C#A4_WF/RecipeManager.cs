@@ -40,6 +40,11 @@ namespace C_A4_WF
             }
         }
 
+        public void AddImg(string imgPath, int saveIndex)
+        {
+            recipes[saveIndex].ImgFileName = imgPath;
+        }
+
         /// <summary>
         /// Changes a changed current recipe to its original index in the array.
         /// </summary>

@@ -17,6 +17,7 @@ namespace C_A4_WF
         private string description;
         private string[] ingredientsArr;
         private int numOfIngredients;
+        private string imgFileName;
         //private string ingredientsAsString;
 
         public Recipe(int maxNumOfIngredients)
@@ -25,6 +26,7 @@ namespace C_A4_WF
             this.ingredientsArr = new string[maxNumOfIngredients];
             this.name = string.Empty;
             this.description = string.Empty;
+            this.imgFileName = string.Empty;
             //this.ingredientsAsString = string.Empty;
         }
 
@@ -85,6 +87,15 @@ namespace C_A4_WF
             set
             {
                 this.numOfIngredients = value;
+            }
+        }
+
+        public string ImgFileName
+        {
+            get { return this.imgFileName; }
+            set
+            {
+                this.imgFileName = value;
             }
         }
 

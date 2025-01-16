@@ -107,6 +107,27 @@ namespace C_A4_WF
             }
         }
 
+        private void AddImageButton_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog imgFileDialog = new OpenFileDialog()
+            {
+                Title = "Choose an image",
+                Filter = "Image Files (*.jpeg;*.png)|*.jpeg;*.png"
+            };
+
+            if (imgFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                recipeManager.AddImg(imgFileDialog.FileName, recipeListBox.SelectedIndex);
+            }
+            else
+            {
+                MessageBox.Show("Could not save image",
+                    "Img Load Error",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+            }
+        }
+
         /// <summary>
         /// Clears necessary fields, deselects the recipe list
         /// Creates a new current recipe
